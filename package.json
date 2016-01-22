@@ -1,119 +1,16 @@
 {
-  "_args": [
-    [
-<<<<<<< HEAD
-      "git+https://github.com/acronamy/kitsune_themes.git",
-      "/home/adam/node-www/kitsune-cms-1.1/kitsune"
-    ],
-    [
-=======
->>>>>>> 6e97af884757cf3eb49f63009bc326dbc5c5104b
-      "kitsune_themes/",
-      "/home/adam/node-www/kitsune-cms-1.1"
-    ],
-    [
-      "node_modules/kitsune_themes/",
-      "/home/adam/node-www/kitsune-cms-1.1"
-    ],
-    [
-      "node_modules/kitsune_themes/",
-      "/home/adam/node-www/kitsune-cms-1.1"
-    ]
-  ],
-<<<<<<< HEAD
-  "_from": "git+https://github.com/acronamy/kitsune_themes.git",
-  "_id": "kitsune_themes@1.0.0",
-=======
-  "_from": "node_modules/kitsune_themes",
->>>>>>> 6e97af884757cf3eb49f63009bc326dbc5c5104b
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/kitsune_themes",
-  "_phantomChildren": {},
-  "_requested": {
-<<<<<<< HEAD
-    "hosted": {
-      "directUrl": "https://raw.githubusercontent.com/acronamy/kitsune_themes/master/package.json",
-      "gitUrl": "git://github.com/acronamy/kitsune_themes.git",
-      "httpsUrl": "git+https://github.com/acronamy/kitsune_themes.git",
-      "shortcut": "github:acronamy/kitsune_themes",
-      "ssh": "git@github.com:acronamy/kitsune_themes.git",
-      "sshUrl": "git+ssh://git@github.com/acronamy/kitsune_themes.git",
-      "type": "github"
-    },
-    "name": null,
-    "raw": "git+https://github.com/acronamy/kitsune_themes.git",
-    "rawSpec": "git+https://github.com/acronamy/kitsune_themes.git",
-    "scope": null,
-    "spec": "git+https://github.com/acronamy/kitsune_themes.git",
-    "type": "hosted"
-=======
-    "name": null,
-    "raw": "node_modules/kitsune_themes/",
-    "rawSpec": "node_modules/kitsune_themes/",
-    "scope": null,
-    "spec": "/home/adam/node-www/kitsune-cms-1.1/node_modules/kitsune_themes",
-    "type": "directory"
->>>>>>> 6e97af884757cf3eb49f63009bc326dbc5c5104b
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-<<<<<<< HEAD
-  "_resolved": "git+https://github.com/acronamy/kitsune_themes.git#6e97af884757cf3eb49f63009bc326dbc5c5104b",
-  "_shasum": "2f954581c3853f926f791dddbdefa2a155f32c5a",
-  "_shrinkwrap": null,
-  "_spec": "git+https://github.com/acronamy/kitsune_themes.git",
-  "_where": "/home/adam/node-www/kitsune-cms-1.1/kitsune",
-  "author": {
-    "name": "Adam Crockett"
-  },
-  "bugs": {
-    "url": "https://github.com/acronamy/kitsune_themes/issues"
-  },
-  "dependencies": {},
-  "description": "Provides a Theme layer and parser for Kitsune routes.",
-  "devDependencies": {},
-  "gitHead": "6e97af884757cf3eb49f63009bc326dbc5c5104b",
-  "homepage": "https://github.com/acronamy/kitsune_themes#readme",
-=======
-  "_resolved": "file:node_modules/kitsune_themes",
-  "_shasum": "4a83f9138a89193ea4ac2780ccddc7ea0e57d1d1",
-  "_shrinkwrap": null,
-  "_spec": "node_modules/kitsune_themes/",
-  "_where": "/home/adam/node-www/kitsune-cms-1.1",
-  "author": "Adam Crockett",
-  "dependencies": {},
-  "description": "Provides a Theme layer and parser for Kitsune routes.",
-  "devDependencies": {},
->>>>>>> 6e97af884757cf3eb49f63009bc326dbc5c5104b
-  "license": "ISC",
-  "main": "index.js",
-  "name": "kitsune_themes",
-  "optionalDependencies": {},
-<<<<<<< HEAD
-  "readme": "ERROR: No README data found!",
-  "readmeFilename": "readme.md",
-=======
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "version": "1.0.0",
->>>>>>> 6e97af884757cf3eb49f63009bc326dbc5c5104b
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/acronamy/kitsune_themes.git"
-  },
-<<<<<<< HEAD
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "version": "1.0.0"
-=======
-  "bugs": {
-    "url": "https://github.com/acronamy/kitsune_themes/issues"
-  },
-  "homepage": "https://github.com/acronamy/kitsune_themes#readme"
->>>>>>> 6e97af884757cf3eb49f63009bc326dbc5c5104b
+	"name": "kitsune_themes",
+	"version": "1.1.0",
+	"description": "",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/acronamy/kitsune_themes.git"
+	},
+	"author": "Adam Crockett",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/acronamy/kitsune_themes/issues"
+	},
+	"homepage": "https://github.com/acronamy/kitsune_themes#readme"
 }
