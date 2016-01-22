@@ -14,7 +14,6 @@
     ]
   ],
   "_from": "node_modules/kitsune_themes",
-  "_id": "kitsune_themes@1.0.0",
   "_inCache": true,
   "_installable": true,
   "_location": "/kitsune_themes",
@@ -36,9 +35,7 @@
   "_shrinkwrap": null,
   "_spec": "node_modules/kitsune_themes/",
   "_where": "/home/adam/node-www/kitsune-cms-1.1",
-  "author": {
-    "name": "Adam Crockett"
-  },
+  "author": "Adam Crockett",
   "dependencies": {},
   "description": "Provides a Theme layer and parser for Kitsune routes.",
   "devDependencies": {},
@@ -46,9 +43,16 @@
   "main": "index.js",
   "name": "kitsune_themes",
   "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acronamy/kitsune_themes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/acronamy/kitsune_themes/issues"
+  },
+  "homepage": "https://github.com/acronamy/kitsune_themes#readme"
 }
